@@ -1,4 +1,4 @@
-import express
+import express from 'express';
 import { WebSocketServer } from 'ws';
 
 const app = express();
